@@ -33,13 +33,6 @@
     <td align="center"><a href="#regex"><img src="images/regex.png" width="75px;" height="75px;" alt="RegEx"/><br /><b>Regex</b></a></td>
   </tr>
 
-  <tr>
-      <td align="center"><a href="topics/cloud/README.md"><img src="images/cloud.png" width="75px;" height="75px;" alt="Cloud"/><br /><b>Cloud</b></a></td>
-      <td align="center"><a href="topics/aws/README.md"><img src="images/aws.png" width="100px;" height="75px;" alt="aws"/><br /><b>AWS</b></a></td>
-      <td align="center"><a href="topics/azure/README.md"><img src="images/azure.png" width="75px;" height="75px;" alt="azure"/><br /><b>Azure</b></a></td>
-      <td align="center"><a href="topics/gcp/README.md"><img src="images/googlecloud.png" width="70px;" height="70px;" alt="Google Cloud Platform"/><br /><b>Google Cloud Platform</b></a></td>
-      <td align="center"><a href="#openstack/README.md"><img src="images/openstack.png" width="75px;" height="75px;" alt="openstack"/><br /><b>OpenStack</b></a></td>
-  </tr>
 
   <tr>
       <td align="center"><a href="#operating-system"><img src="images/os.png" width="75px;" height="75px;" alt="Operating System"/><br /><b>Operating System</b></a></td>
@@ -62,13 +55,11 @@
       <td align="center"><a href="topics/cicd/README.md"><img src="images/cicd.png" width="75px;" height="75px;" alt="cicd"/><br /><b>CI/CD</b></a></td>
       <td align="center"><a href="#certificates"><img src="images/certificates.png" width="75px;" height="75px;" alt="Certificates"/><br /><b>Certificates</b></a></td>
       <td align="center"><a href="topics/containers/README.md"><img src="images/containers.png" width="75px;" height="75px;" alt="Containers"/><br /><b>Containers</b></a></td>
-      <td align="center"><a href="topics/openshift/README.md"><img src="images/openshift.png" width="75px;" height="75px;" alt="OpenShift"/><br /><b>OpenShift</b></a></td>
       <td align="center"><a href="#storage"><img src="images/storage.png" width="75px;" height="75px;" alt="Storage"/><br /><b>Storage</b></a></td>
   </tr>
 
   <tr>
       <td align="center"><a href="topics/terraform/README.md"><img src="images/terraform.png" width="75px;" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a></td>
-      <td align="center"><a href="#puppet"><img src="images/puppet.png" width="75px;" height="75px;" alt="puppet"/><br /><b>Puppet</b></a></td>
       <td align="center"><a href="#distributed"><img src="images/distributed.png" width="75px;" height="75px;" alt="Distributed"/><br /><b>Distributed</b></a></td>
       <td align="center"><a href="#questions-you-ask"><img src="images/you.png" width="75px;" height="75px;" alt="you"/><br /><b>Questions you can ask</b></a></td>
       <td align="center"><a href="topics/ansible/README.md"><img src="images/ansible.png" width="75px;" height="75px;" alt="ansible"/><br /><b>Ansible</b></a></td>
@@ -77,8 +68,6 @@
   <tr>
       <td align="center"><a href="topics/observability/README.md"><img src="images/observability.png" width="75px;" height="75px;" alt="observability"/><br /><b>Observability</b></a></td>
       <td align="center"><a href="#prometheus"><img src="images/prometheus.png" width="75px;" height="75px;" alt="Prometheus"/><br /><b>Prometheus</b></a></td>
-      <td align="center"><a href="topics/circleci/README.md"><img src="images/logos/circleci.png" width="70px;" height="70px;" alt="Circle CI"/><br /><b>Circle CI</b></a></td>
-      <td align="center"><a href="topics/datadog/README.md"><img src="images/logos/datadog.png" width="80px;" height="80px;" alt="DataDog"/><br /><b></b></a></td>
       <td align="center"><a href="topics/grafana/README.md"><img src="images/logos/grafana.png" width="80px;" height="80px;" alt="Grafana"/><br /><b>Grafana</b></a></td>
   </tr>
 
@@ -4015,24 +4004,4 @@ If you are looking for a way to prepare for a certain exam this is the section f
 
 * [AZ-900](certificates/azure-fundamentals-az-900.md) (Latest update: 2021)
 
-#### Kubernetes
 
-* [Certified Kubernetes Administrator (CKA)](topics/kubernetes/CKA.md) (Latest update: 2022)
-
-## Additional DevOps and SRE Projects
-
-<p align="center"><a href="https://github.com/bregman-arie/sre-checklist"><img width="500px" src="images/sre_checklist.png"/></a></p>
-
-<p align="center"><a href="https://github.com/bregman-arie/howtheydevops"><img src="images/how_they_devops.png"/></a></p>
-<p align="center"><a href="https://github.com/bregman-arie/devops-resources"><img src="images/devops_resources.png"/></a></p>
-<p align="center"><a href="https://github.com/bregman-arie/infraverse"><img src="images/infraverse.png"/></a></p>
-
-## Credits
-
-Thanks to all of our amazing [contributors](https://github.com/bregman-arie/devops-exercises/graphs/contributors) who make it easy for everyone to learn new things :)
-
-Logos credits can be found [here](credits.md)
-
-## License
-
-[![License: CC BY-NC-ND 3.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/3.0/)
